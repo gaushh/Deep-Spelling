@@ -3,6 +3,7 @@ This repository contains code for an auto spell checker built using **Pytorch** 
 
 We've built encoder-decoder networks using GRU as the building block. 
 Luong Attention mechanism is used to speeden up the training process and improve accuracy.
+
 Characters (not words) were provided as input to the architecture while training and testing.   
 The model was trained on free cloud GPU available on google colab. 
 
