@@ -13,9 +13,13 @@ The noise is the simulated spelling mistakes and the model tries to learn how to
 
 The trained weights file is available [here](https://drive.google.com/file/d/1-LFmzixL3dMH99nDziw3aVkBIa6BVCUz/view?usp=sharing)
 
+The model achieved 92% Test set accuracy on training on free Colab GPU within a few hours 
+
 ### Major Modifications
 - Used GRU instead of RNN as building block.
 - Introduced Attention Mechanism
 
 ### Acknowledgment
 This work is an extension to [this repo](https://github.com/MajorTal/DeepSpell) by Tal Weiss. 
+
+Feel free to contact me in case of any query. 
