@@ -4,6 +4,6 @@ We have built encoder-decoder networks using GRU as the building block. Luong At
 Characters (not words) were provided as input to the architecture while training and testing.   
 This work is essencially an extension to DeepSpell by Tal Weiss. 
 
-#### Major Modifications
+### Major Modifications
 - Used GRU instead of RNN as building block.
 - Introduced Attention Mechanism
